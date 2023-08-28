@@ -1,0 +1,21 @@
+.content {
+    font-family:Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    
+}
+.content-header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+.content-main {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+
+}
